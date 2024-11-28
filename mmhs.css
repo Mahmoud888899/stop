@@ -1,0 +1,37 @@
+body{
+
+background-color: rgba(181, 177, 177, 0.418);
+}div{
+width: 400px;
+height: 600px;
+border-radius: 5%;
+background-color: white;
+box-shadow: 10px 10px 10px black;
+}h1{
+font-size: 90px;
+font-style: italic;
+color: rgb(0, 0, 0);
+}img{
+width: 200px;
+height: 200px;
+}input{
+height: 30px;
+margin-top: 30px;
+border-radius: 5px;
+opacity: 0.50;
+background-color: black;
+color: white;
+}button{
+width: 100px;
+height: 35px;
+border-radius: 5px;
+opacity: 0.50;
+background-color: black;
+color: white;
+margin-top: 20px;
+}#i{width: 30px;
+height: 30px;
+margin-left: -35px;
+margin-top: 35px;
+position:fixed;
+}
